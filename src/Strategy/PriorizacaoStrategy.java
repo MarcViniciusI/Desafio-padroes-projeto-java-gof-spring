@@ -1,3 +1,6 @@
+package Strategy;
+import models.OrdemServico;
+
 /**
  * Interface que define o contrato para diferentes estratégias de priorização
  */

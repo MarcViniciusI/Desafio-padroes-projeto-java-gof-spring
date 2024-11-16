@@ -1,5 +1,11 @@
+package facade;
+import Singleton.DatabaseConnection;
+import Strategy.PriorizacaoPadrao;
+import Strategy.PriorizacaoStrategy;
 import java.util.ArrayList;
 import java.util.List;
+import models.Cliente;
+import models.OrdemServico;
 
 /**
  * Facade que simplifica a interface do sistema para o cliente

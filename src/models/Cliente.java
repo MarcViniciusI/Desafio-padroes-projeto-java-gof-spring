@@ -1,3 +1,4 @@
+package models;
 /**
  * Classe que representa um cliente no sistema
  */

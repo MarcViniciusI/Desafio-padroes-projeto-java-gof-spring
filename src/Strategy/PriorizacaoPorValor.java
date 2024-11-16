@@ -1,3 +1,6 @@
+package Strategy;
+import models.OrdemServico;
+
 /**
  * Implementação da estratégia de priorização baseada no valor do serviço
  */

@@ -1,5 +1,7 @@
+package Strategy;
 import java.time.LocalDateTime;
 import java.time.temporal.ChronoUnit;
+import models.OrdemServico;
 
 /**
  * Implementação da estratégia de priorização baseada na data de criação

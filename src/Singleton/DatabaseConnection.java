@@ -1,3 +1,4 @@
+package Singleton;
 /**
  * Classe de conexão com o banco de dados utilizando padrão Singleton
  * Garante que existe apenas uma instância de conexão em toda a aplicação
